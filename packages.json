@@ -1,0 +1,18 @@
+[
+    {
+        "package": "canaper",
+        "url": "https://github.com/ropensci/canaper"
+    },
+    {
+        "package": "restez",
+        "url": "https://github.com/ropensci/restez"
+    },
+    {
+        "package": "taxastand",
+        "url": "https://github.com/joelnitta/taxastand"
+    },
+    {
+        "package": "dwctaxon",
+        "url": "https://github.com/joelnitta/dwctaxon"
+    }
+]
