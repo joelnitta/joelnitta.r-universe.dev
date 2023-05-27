@@ -2,9 +2,5 @@
     {
         "package": "taxastand",
         "url": "https://github.com/joelnitta/taxastand"
-    },
-    {
-        "package": "dwctaxon",
-        "url": "https://github.com/joelnitta/dwctaxon"
     }
 ]
