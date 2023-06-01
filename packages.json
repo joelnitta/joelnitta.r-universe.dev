@@ -2,5 +2,9 @@
     {
         "package": "taxastand",
         "url": "https://github.com/joelnitta/taxastand"
-    }
+    },
+    {
+      "package": "ftolr",
+      "url": "https://github.com/fernphy/ftolr"
+  }
 ]
