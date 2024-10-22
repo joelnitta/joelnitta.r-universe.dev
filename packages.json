@@ -4,6 +4,10 @@
         "url": "https://github.com/joelnitta/taxastand"
     },
     {
+      "package": "joholearnr",
+      "url": "https://github.com/joelnitta/joholearnr"
+  },
+    {
       "package": "ftolr",
       "url": "https://github.com/fernphy/ftolr"
   }
